@@ -1,6 +1,6 @@
-# US_ChronicDisease_Ananlysis
-
-## Chronic Disease Trend Analysis and Prediction in the USA
+<img width="367" alt="Chronic_diease_Indicator" src="https://github.com/kundankr4/US_ChronicDisease_Ananlysis/assets/126001733/b03f3da0-8bcf-4649-b0b7-5e34d2569498">
+ 
+ Chronic Disease Trend Analysis and Prediction in the USA
 ### Overview ###
 "Chronic Disease Trend Analysis and Prediction in the USA" is a comprehensive data-driven project designed to analyze and forecast trends in various chronic diseases across the United States. This Dash and Flask-based application integrates various datasets to provide in-depth insights into the patterns and predictions of chronic diseases
  
